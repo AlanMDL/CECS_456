@@ -1,6 +1,6 @@
-!pip install Cython
-!pip install hdbscan
-!pip install kneed # To install only knee-detection algorithm
+#!pip install Cython
+#!pip install hdbscan
+#!pip install kneed # To install only knee-detection algorithm
 import hdbscan
 import numpy as np
 import sklearn as sk
